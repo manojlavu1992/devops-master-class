@@ -2,17 +2,17 @@
 
 ## Learn Devops with Docker, Kubernetes, Terraform, Ansible, Jenkins and Azure Devops
 
-## Pipeline Project Github Repositories
+<!-- ## Pipeline Project Github Repositories
 - Azure Devops - https://github.com/in28minutes/azure-devops-kubernetes-terraform-pipeline
-- Jenkins - https://github.com/in28minutes/jenkin-devops-microservice
+- Jenkins - https://github.com/in28minutes/jenkin-devops-microservice -->
 
 ## Course Introduction
 
-200+ Videos. 20+ Hours. 6 DevOps Tools - Docker, Kubernetes, Azure Devops, Jenkins, Terraform, and Ansible. 3 Different Clouds - AWS, Azure and Google Cloud. 
+Welcome you will learn 6 DevOps Tools - Docker, Kubernetes, Azure Devops, Jenkins, Terraform, and Ansible. 3 Different Clouds - AWS, Azure and Google Cloud. 
 
 Do you need more reasons for enrolling for this amazing course on DevOps?
 
-Do you have ZERO experience with DevOps with Docker, Kubernetes, Azure Devops, Jenkins, Terraform, Ansible, AWS, Azure and Google Cloud? No Problem.
+Do you have ZERO experience with DevOps with Docker, Kubernetes, Azure Devops, Jenkins, Terraform, Ansible, AWS, Azure? No Problem.
 
 Do you have ZERO experience with DevOps Containers and Container Orchestration with Docker and Kubernetes? No Problem.
 
